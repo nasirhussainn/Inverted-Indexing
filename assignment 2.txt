@@ -1,0 +1,12 @@
+Assignment No:2
+Group Assignment | Group Size: two students | Submission Deadline: 21-03-2024
+Title: Automatic Inverted Indexing of Web Pages
+Description:
+-Crawl and store at least 1000 web pages in a folder on your personal computers 
+(use web crawler developed in previous assignment) Store meta information of web pages, 
+i.e., web page ID, URI, title, and few description keywords in a meta file 
+(create a single meta text file that stores meta information about all the stored web pages)
+-Preprocess the textual information in the crawled webpages and create a standard inverted index.
+-The preprocessing involves stop-word removal (find list of 440 stopwords from the web), 
+stemming (find   porter's stemming algorithm from the web), and duplicate removal. 
+-Store the inverted index in a plain text file.
